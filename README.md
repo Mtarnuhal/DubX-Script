@@ -33,13 +33,13 @@ Usage
 javascript:(function(){$.getScript('https://rawgit.com/Mtarnuhal/DubX-Script/master/beta.js');}());
 ```
 
-* If this does not work, go to `https://rawgit.com/sinfulBA/DubX-Script/master/beta.js` and copy paste its content into your console (accessible in chrome by pressing f12) when on Dubtrack.fm in a community.
+* If this does not work, go to `https://rawgit.com/Mtarnuhal/DubX-Script/master/beta.js` and copy paste its content into your console (accessible in chrome by pressing f12) when on Dubtrack.fm in a community.
 
 -----------------
 Custom CSS
 ---
 
-* plug.dj theme made by Kris and edited by sinful. Paste `https://rawgit.com/sinfulBA/DubX-Script/master/themes/PlugTheme.css` in the Custom CSS option in Dub X, then click 'Okay'
+* plug.dj theme made by Kris and edited by sinful. Paste `https://rawgit.com/Mtarnuhal/DubX-Script/master/themes/PlugTheme.css` in the Custom CSS option in Dub X, then click 'Okay'
 
 -----------------
 Features
