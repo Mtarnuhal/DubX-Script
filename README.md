@@ -35,6 +35,9 @@ javascript:(function(){$.getScript('https://rawgit.com/Mtarnuhal/DubX-Script/mas
 
 * If this does not work, go to `https://rawgit.com/Mtarnuhal/DubX-Script/master/beta.js` and copy paste its content into your console (accessible in chrome by pressing f12) when on Dubtrack.fm in a community.
 
+* Userscript:
+https://gist.github.com/Mtarnuhal/deb7a4e79ea02cc3ba3fcb76253109f8/raw/8a3afea7971641a863ea76885d64a2306bd38f63/dubx.user.js
+
 -----------------
 Custom CSS
 ---
