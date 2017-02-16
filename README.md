@@ -27,8 +27,7 @@ __Updates (Version 03.05.00)__
 Usage
 ---
 
-* Bookmark the following code from the [Dub X Website](https://dubx.net) or the script below. Once in a Dubtrack.fm community, run the bookmark. Drag-Drop the following link on the bookmark bar. 
- [DubX](javascript:(function(){$.getScript('https://rawgit.com/Mtarnuhal/DubX-Script/master/beta.js');}());)
+* Bookmark the following code from the [Dub X Website](https://dubx.net) or the script below. Once in a Dubtrack.fm community, run the bookmark.
 
 ```
 javascript:(function(){$.getScript('https://rawgit.com/Mtarnuhal/DubX-Script/master/beta.js');}());
